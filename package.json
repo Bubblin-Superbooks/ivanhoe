@@ -1,14 +1,14 @@
 {
   "name": "ivanhoe",
   "version": "0.0.4",
-  "description": "Superbook ivanhoe by emilybronte",
+  "description": "Superbook ivanhoe by walterscott",
   "keywords": [
     "superbook",
     "bookiza"
   ],
-  "author": "emilybronte <marvindanig+guten+emily+bronte@gmail.com> (https://bubbl.in/emilybronte)",
+  "author": "walterscott <marvindanig+guten+walter+scott@gmail.com> (https://bubbl.in/walterscott)",
   "license": "ISC",
-  "homepage": "https://bubbl.in/emilybronte",
+  "homepage": "https://bubbl.in/walterscott",
   "repository": {
     "type": "git",
     "url": "git+https://github/project/url/here"
