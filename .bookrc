@@ -5,6 +5,7 @@
     "JS": "js",
     "HEAD": "html"
   },
-  "name": "ivanhoe",
-  "type": "text"
+  "name": "Ivanhoe",
+  "type": "text",
+  "book_id": 340
 }
